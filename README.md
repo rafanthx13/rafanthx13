@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá
+
+Olá. Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural de Eunápolis/BA e cursando CiÊncia da Computação em Uberlândia/MG.
+
+[Link de Portifolio Pessoal](https://rafanthx13.github.io/)
 
 <!--
 **rafanthx13/rafanthx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
