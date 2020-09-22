@@ -1,10 +1,8 @@
 ### Olá
 
-Olá. Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural de Eunápolis/BA e cursando CiÊncia da Computação em Uberlândia/MG.
+Olá. Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural de Eunápolis/BA e cursando Ciência da Computação em Uberlândia/MG.
 
 [Link de Portifolio Pessoal](https://rafanthx13.github.io/)
-
-
 
 <p align="left">
   Back-End:
@@ -20,16 +18,4 @@ Olá. Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="python" width="81.92" height="33.12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" withd="80" height="30" />
   <img src="https://www.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" withd="30" height="30" />
-</p>
-
-
-
-<p align="left">
-  
-</p>
-
-DataScience:
-
-<p align="left">
-  
 </p>
