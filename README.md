@@ -21,4 +21,9 @@ Olá. Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural 
   <img src="https://img.shields.io/badge/-Pandas-171f52.svg?logo=pandas&style=flat-square">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/-scikit--learn-f89a36.svg?logo=&style=flat-square">
+  
+  BI: 
+  <img src="https://img.shields.io/badge/-Power%20BI-f0c92d.svg?logo=power%20bi&style=flat-square&logoColor=black">
+  <img src="https://img.shields.io/badge/-pentaho%20pdi-1f7ac2.svg?logo=&style=flat-square">
+  
 </p>
