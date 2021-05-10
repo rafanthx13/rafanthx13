@@ -30,7 +30,8 @@
   BI: 
   <img src="https://img.shields.io/badge/-Power%20BI-f0c92d.svg?logo=power%20bi&style=flat-square&logoColor=black">
   <img src="https://img.shields.io/badge/-pentaho%20pdi-1f7ac2.svg?logo=&style=flat-square">
-  &nbsp;&nbsp;
+  </p>
+  <p align="center">
   Mobile:
   <img src="https://img.shields.io/badge/-Flutter-53c5f8.svg?logo=flutter&style=flat-square">
   </p>
