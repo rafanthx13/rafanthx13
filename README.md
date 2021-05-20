@@ -6,6 +6,8 @@
   <a href="https://rafanthx13.github.io/">Link de Portifolio Pessoal</a>
 </p>
 
+<!-- Find more symbols: https://tech-blog.s-yoshiki.com/entry/150 -->
+
 <p align="center">
   Back-End:
   <img src="https://img.shields.io/badge/-Java-e43b2e.svg?logo=java&style=flat-square"/>
