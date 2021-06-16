@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-Java-e43b2e.svg?logo=java&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Spring-f7f7f7.svg?logo=spring&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Node.js-8bbe3d.svg?logo=node.js&style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat-square"/>
   </p>
 <p align="center">
   FrontEnd:
@@ -34,8 +35,10 @@
   <img src="https://img.shields.io/badge/-pentaho%20pdi-1f7ac2.svg?logo=&style=flat-square">
   </p>
   <p align="center">
+  <!--
   Mobile:
   <img src="https://img.shields.io/badge/-Flutter-53c5f8.svg?logo=flutter&style=flat-square">
+  -->
   </p>
   
 </p>
