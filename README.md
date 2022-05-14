@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Rafael Morais de Assis</h1>
 
 <p align="center">
-  Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural de Eunápolis/BA e cursando Ciência da Computação em Uberlândia/MG.
+  Sou desenvolvedor Full-Stack e um entusiasta de Machine Learning. Natural de Eunápolis/BA e graduado em Ciência da Computação em Uberlândia/MG.
 <br/>
   <a href="https://rafaelmassis.com.br/">Link de Portifolio Pessoal</a>
 </p>
